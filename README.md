@@ -1,5 +1,5 @@
 #### Overview
-Please understand the below mentioned real-life scenario and try to solve the assignment.The sample data is attached in the link provided below for your reference.<br>
+Please understand the below mentioned real-life scenario and try to solve.The sample data is attached in the link provided below for your reference.<br>
 
 #### Business Scenario
 You are a data analyst and your client has a large ecommerce company in India (let’s call it X). X gets a thousand orders via their website on a daily basis and they have to deliver them as fast as they can. For delivering the goods ordered by the customers, X has tied up with multiple courier companies in India as delivery partners who charge them some amount per delivery.<br>
